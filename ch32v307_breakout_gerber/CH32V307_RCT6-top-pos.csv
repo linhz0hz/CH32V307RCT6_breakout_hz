@@ -1,0 +1,53 @@
+Designator ,Val,Package,Mid X ,Mid Y ,Rotation ,Layer
+C1,X7R 0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,141.5,-90,45,top
+C2,X7R 0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,151.2,-83.1375,90,top
+C3,X7R 0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,140.85,-93,180,top
+C4,X7R 0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,151.4,-101,180,top
+C5,X7R 0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,146,-100.5,-90,top
+C6,X7R 0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,158.6,-94,-45,top
+C7,X7R 0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,138.75,-104.7,180,top
+C8,10p,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,139.5,-97.2,0,top
+C9,10p,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,139.25,-102.2,0,top
+C10,X7R 0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,149.25,-68,180,top
+C11,x7r 1u,C_0805_2012Metric,144.7,-65,-90,top
+C12,tant 10u,CP_EIA-3216-18_Kemet-A,147,-62,-90,top
+C13,tant 10u,CP_EIA-3216-18_Kemet-A,138.75,-62.6,-90,top
+C14,x7r 1u,C_0805_2012Metric,141.75,-64.25,180,top
+C15,10p,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,135.5,-90,180,top
+C16,10p,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,135.5,-92.5,180,top
+C17,X7R 0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,163.75,-77.25,180,top
+C18,X7R 0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,158.5,-125.25,0,top
+C19,X7R 0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,135.75,-125,0,top
+D1,D,D_SOD-123,149,-56.25,0,top
+D2,D,D_SOD-123,143.75,-56.25,180,top
+F1,0467.375NRHF,Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder,139.5,-57,0,top
+F2,0467.375NRHF,Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder,155,-57.25,180,top
+J1,U254-051T-4BH83-S1S,USB_Micro-B_Amphenol_10103594-0001LF_Horizontal,164.25,-53,180,top
+J2,U254-051T-4BH83-S1S,USB_Micro-B_Amphenol_10103594-0001LF_Horizontal,135.75,-53,180,top
+J3,Conn_01x30_Male,PinHeader_1x27_P2.54mm_Vertical,132.25,-61.96,0,top
+J4,Conn_01x02_Male,PinHeader_1x02_P2.54mm_Vertical,153.8,-54.5,90,top
+J5,Micro_SD_Card,TF-SMD_XKTF-N02-N,157.5,-66.75,90,top
+J6,Conn_01x21_Male,PinHeader_1x21_P2.54mm_Vertical,167.75,-77.16,0,top
+J7,debug,PinHeader_1x06_P2.54mm_Vertical,143.65,-52,90,top
+J8,Conn_01x12_Male,PinHeader_1x12_P2.54mm_Vertical,164,-128,-90,top
+JP1,Jumper_3_Open,PinHeader_1x03_P2.00mm_Vertical,161.4,-103.8,180,top
+JP2,Jumper_3_Open,PinHeader_1x03_P2.00mm_Vertical,137.75,-81.25,0,top
+R1,50,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,161.4,-89.6,-45,top
+R2,50,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,161,-91.4,-45,top
+R3,50,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,161.2,-93.8,-45,top
+R4,50,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,161.354765,-96.354765,-45,top
+R5,50,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,156.6,-103,-90,top
+R6,50,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,155.4,-106.75,-90,top
+R7,50,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,154.2,-103,-90,top
+R8,50,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,153,-106.75,-90,top
+R9,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,159,-98.8,-90,top
+R10,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,141,-86,135,top
+R11,50,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,148,-83,90,top
+R12,50,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,143.5,-82.25,90,top
+R13,50,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,142.25,-78.75,90,top
+R14,50,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,141,-82.25,90,top
+R15,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,141.25,-105.5,-90,top
+SW1,GT-TC032A-H015-L1,SW_SPST_B3U-1000P,138.75,-107.95,-90,top
+U1,CH32V307RCT6,LQFP-64_10x10mm_P0.5mm,150,-92.5,45,top
+U2,AZ1117CR-3.3,SOT-89-3,143,-60.5,90,top
+Y1,X32258MOB4SI,Crystal_SMD_SeikoEpson_TSX3225-4Pin_3.2x2.5mm,139.25,-99.7,0,top
