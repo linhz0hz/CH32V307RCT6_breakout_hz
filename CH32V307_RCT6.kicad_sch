@@ -174,6 +174,9 @@
     (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/e481e043-7788-4ea9-b402-ccbe27f6fa2d"
       (reference "#PWR0149") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/facf1674-51ff-49a5-8f06-47dca0b1f4df"
+      (reference "#PWR0150") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/2aa6908d-a5af-4a97-9d75-c1d06d5a51e3/69198ca4-379a-4ba2-9432-0114136149eb"
       (reference "C1") (unit 1) (value "X7R 0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
@@ -335,6 +338,21 @@
     )
     (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/d524be68-d599-4055-b587-cf0f04844c62"
       (reference "R21") (unit 1) (value "4k7") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/45dd92a0-cb03-4fda-8e82-df30c0de9934"
+      (reference "R22") (unit 1) (value "47k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/fc27028d-8971-45c6-a024-a9ec464cd7a7"
+      (reference "R23") (unit 1) (value "47k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/e034eef6-a3bf-4199-80c8-9b74c97d9c9a"
+      (reference "R24") (unit 1) (value "47k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/54cc422b-9d48-4e49-88e6-9d04fb46edf4"
+      (reference "R25") (unit 1) (value "47k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/da26c477-abf9-4941-b8ce-d6e9d11161ef"
+      (reference "R26") (unit 1) (value "47k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/4b9c3fa2-4bb9-4974-9e62-984c8a161d25"
       (reference "SW1") (unit 1) (value "GT-TC032A-H015-L1") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
