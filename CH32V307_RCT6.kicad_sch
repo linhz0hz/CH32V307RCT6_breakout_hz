@@ -177,6 +177,12 @@
     (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/facf1674-51ff-49a5-8f06-47dca0b1f4df"
       (reference "#PWR0150") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/71120599-7f89-4f4a-8eaf-45413ed96f66"
+      (reference "#PWR0151") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/78259bb3-b736-44ec-acb0-ae07b125031f"
+      (reference "#PWR0152") (unit 1) (value "GND") (footprint "")
+    )
     (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/2aa6908d-a5af-4a97-9d75-c1d06d5a51e3/69198ca4-379a-4ba2-9432-0114136149eb"
       (reference "C1") (unit 1) (value "X7R 0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
@@ -275,6 +281,9 @@
     )
     (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/06bdc2c8-3d92-4e7c-99b8-876301b1f061"
       (reference "J9") (unit 1) (value "Clock_in") (footprint "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical")
+    )
+    (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/3c22c6dd-2daf-421d-b960-e73cff1eb972"
+      (reference "J10") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_1.27mm:PinHeader_1x08_P1.27mm_Vertical")
     )
     (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/768427f7-b1e4-433c-a978-1901d373da4b"
       (reference "JP1") (unit 1) (value "Jumper_3_Open") (footprint "Connector_PinHeader_2.00mm:PinHeader_1x03_P2.00mm_Vertical")
