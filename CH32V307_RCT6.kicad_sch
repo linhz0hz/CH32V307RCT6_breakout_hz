@@ -244,10 +244,10 @@
       (reference "C20") (unit 1) (value "X7R 0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/679a01a5-a909-4743-899a-a657de43d6b2"
-      (reference "D1") (unit 1) (value "B5819W SL") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D1") (unit 1) (value "B5819W") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/f9f5cd13-8d23-4a8b-be41-4bd102a30502"
-      (reference "D2") (unit 1) (value "B5819W SL") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D2") (unit 1) (value "B5819W") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/cd573521-8995-4d0d-946f-4f47fb413e8a"
       (reference "F1") (unit 1) (value "0467.375NRHF") (footprint "Fuse:Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
