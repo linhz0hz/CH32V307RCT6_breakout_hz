@@ -259,10 +259,10 @@
       (reference "F3") (unit 1) (value "0467.375NRHF") (footprint "Fuse:Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
     )
     (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/9ee49b71-5f59-4911-9587-d3395206d9a2"
-      (reference "J1") (unit 1) (value "U254-051T-4BH83-S1S") (footprint "Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal")
+      (reference "J1") (unit 1) (value "U254-051T-4BH83-S1S") (footprint "SamacSys_Parts:MICRO-USB-SMD_U254-051T-4BH83-S1S")
     )
     (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/7d771c79-69b9-44cf-8a30-2e4b881616d0"
-      (reference "J2") (unit 1) (value "U254-051T-4BH83-S1S") (footprint "Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal")
+      (reference "J2") (unit 1) (value "U254-051T-4BH83-S1S") (footprint "SamacSys_Parts:MICRO-USB-SMD_U254-051T-4BH83-S1S")
     )
     (path "/61ea8d37-6ceb-4d22-a3b5-60fb995edb70/52218238-e47a-486c-97cb-51959c669395"
       (reference "J3") (unit 1) (value "Conn_01x30_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x27_P2.54mm_Vertical")
